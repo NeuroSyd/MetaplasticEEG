@@ -3,7 +3,7 @@ EEGDetectionWithMetaplasticity
 
 This is the git repo associated with the article _Metaplastic-EEG: Continuous training on brain-signals_ by
 
-Thomas Bersani--Veroni, Isabelle Aguilar (Electronic mail: iagu0459@sydney.edu.au.), Luis Fernando Herbozo Contreras, Armin Nikpour, and Omid Kavehei
+Isabelle Aguilar (Electronic mail: iagu0459@sydney.edu.au.), Thomas Bersani--Veroni, Luis Fernando Herbozo Contreras, Armin Nikpour, Damien Querlioz, and Omid Kavehei
 
 School of Biomedical Engineering, The University of Sydney, NSW 2006, Australia.
 
